@@ -1,4 +1,4 @@
-# Phân đoạn tim 3D và phân loại bệnh tim bằng Explainable AI
+# Phân đoạn tim 3D và phân loại bệnh tim có khả năng giải thích(XAI)
 
 Đồ án môn **Deep Learning** tại Trường Đại học Sư phạm Kỹ thuật Vĩnh Long. Dự án phân đoạn thất trái, cơ tim và thất phải trên MRI tim 3D bằng **SegResNet3D** và **VNet3D**. Nhánh phân loại kết hợp các chỉ số tính từ mặt nạ VNet3D với đặc trưng sâu để dự đoán ba nhóm bệnh. Các notebook phân đoạn có Grad-CAM 3D và bản đồ độ bất định để khảo sát dự đoán.
 
